@@ -4,6 +4,7 @@ I love working with data and visualising trends 📈 and I hope to eventually br
 
 📖 I’m currently doing a graduate programme in Precision Health and Medicine, where I've been learning a lot about Machine Learning and Deep Learning frameworks 🧠.
 I hope to document my journey here and perhaps meet like-minded people.
+
 Thanks for dropping by, and stay tuned~
 
 <!---
